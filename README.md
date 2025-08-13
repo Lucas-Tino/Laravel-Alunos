@@ -11,7 +11,7 @@ Rodar os comados: npm install e npm run build:<br>
 <img width="500" height="347" alt="6" src="https://github.com/user-attachments/assets/00d24e12-0d2f-4e4c-baa8-9b2f3112013a" /><br>
 <br>
 
-<h2>- Instalação do Laravel:</h2>  
+<h2>- Criação e execução das migrations:</h2>  
 Configurar a conexão com o banco de dados no arquivo .env (caso você não tenha criado um banco de dados automaticamente na criação do projeto, faça um agora e confire apropriadamente o .env):<br>
 <img width="238" height="134" alt="7" src="https://github.com/user-attachments/assets/4ec7b562-2155-457d-b950-3bc4e5189970" />
 
